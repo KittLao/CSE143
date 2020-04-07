@@ -1,0 +1,16 @@
+Part1:
+python3 ngrams.py
+
+Part2:
+  1, 2)
+    a) python3 ngrams.py
+    b) python3 ngrams.py --l1 0.33 --l2 0.33 --l3 0.34
+    c) python3 ngrams.py --l1 0.8 --l2 0.1 --l3 0.1
+    d) python3 ngrams.py --l1 0.1 --l2 0.8 --l3 0.1
+    e) python3 ngrams.py --l1 0.1 --l2 0.1 --l3 0.8
+    f) python3 ngrams.py --l1 0.0 --l2 0.5 --l3 0.5
+
+  3) python3 ngrams.py --train_data_percent 50
+
+  4) python3 ngrams.py --unk_threshold 5
+ 
