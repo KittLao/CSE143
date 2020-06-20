@@ -6,5 +6,7 @@ it, there are errors from the imports at the top.
 For part 3, put the "glove.6B.100d.txt" data in the same directory
 as the source code.
 
+The dataset can be found here: https://nlp.stanford.edu/projects/glove/
+
 All the different models are commented out. Uncomment them to see
 actual result.
